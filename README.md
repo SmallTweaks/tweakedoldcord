@@ -3,7 +3,8 @@ So this is a themes/CSS code that I cobbled together from specific pieces of Old
 Note that the coloring for reactions, linked messages/pings, and so forth have been tailored for light mode (I did my best to recreate how the pre-refresh 2025 version looked).
 
 Below is the result!
-<img width="1436" alt="Screenshot 2025-04-18 at 10 29 08 PM" src="https://github.com/user-attachments/assets/7e77a717-a7e8-42aa-86c7-503f9aff47dc" />
+<img width="1434" alt="Screenshot 2025-04-18 at 10 39 51 PM" src="https://github.com/user-attachments/assets/e6eddc5f-571b-4a4d-a861-49ae2993b534" />
+
 
 There is also the issue that the highlighted background for direct replies/pings washes out the background box of a person's tag. No idea how to fix that, but maybe it won't bother you. The workaround I'm curently using is having the RoleColorEverywhere plugin toggled (Vencord).
 
